@@ -10,3 +10,7 @@ First, need to activate the Python virtual environment and then run the sql.py f
 python sql.py
 streamlit run app.py
 ```
+
+## Preview
+
+[screen-capture.webm](https://github.com/aidul23/Natural-lang-to-SQL/assets/35846452/153d77f3-9f1a-434f-bfd8-1058ab1c4ea7)
